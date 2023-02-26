@@ -1,0 +1,15 @@
+{
+  "$schema": "../chains.schema.json",
+  "name": "Airin",
+  "chains": [
+    {
+      "name": "arkh",
+        "address": "arkhvaloper139wxhclvzunftxeer8l093a8tjkqeddgt0tj54",
+      "restake": {
+        "address": "arkh139wxhclvzunftxeer8l093a8tjkqeddg6kqv4w",
+        "run_time": "19:00",
+        "minimum_reward": 100
+          }
+       } 
+    ]
+ } 
